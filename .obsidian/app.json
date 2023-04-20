@@ -1,3 +1,11 @@
 {
-  "vimMode": true
+  "vimMode": true,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": true
 }
