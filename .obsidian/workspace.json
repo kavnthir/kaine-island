@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85f44207bb392c2c",
+        "id": "dce2eb4ab6a996a1",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5142b16e007f18",
+            "id": "1842c569af46c3a7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5142b16e007f18",
-  "lastOpenFiles": []
+  "active": "b95a44c82877db13",
+  "lastOpenFiles": [
+    "2023-04-20.md",
+    "Music/Math & Music (Don, Walker)/Chapter 1.md",
+    "Music/Math & Music (Don, Walker)",
+    "Music"
+  ]
 }
