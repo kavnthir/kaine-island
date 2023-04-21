@@ -9,7 +9,7 @@ There are many different types of musical instruments such as voices, violins, p
 
 Generalizing the concept of fundamental frequencies to make up a particular instrumental tone we get the form of:
 
-$\nu_0, 2\nu_0, 3\nu_0, 4\nu_0, ...$
+$$\nu_0, 2\nu_0, 3\nu_0, 4\nu_0, ...$$
 
 The smallest frequency being the **fundamental frequency**, $v_0$. the other frequencies are called **overtones**. All of the frequencies are called **harmonics**.
 
