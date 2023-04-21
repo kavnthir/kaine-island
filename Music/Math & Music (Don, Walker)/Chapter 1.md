@@ -18,6 +18,7 @@ The smallest frequency being the **fundamental frequency**, $v_0$. the other fre
 ## 1.1.2 Pure Tones Combining to Create an Instrumental Tone
 
 [![Trumpet Instrumental Tone Decomposition](https://www.jameswalkermathmusic.net/mathematicsandmusic/Nav/EmbeddedYouTubeVideos/Chap1/TrumpetHarmonics.jpg)](https://www.youtube.com/watch?v=MTrxqihjH98)
+
 <sub> Image hyperlinked to spectogram video with audio. </sub>
 
 Now we can see how pure tone can be used to assemble an instrumental tone for a particular instrument given that you know the properties of the instrumental tones.
@@ -43,6 +44,7 @@ When one tone is an octave higher in pitch, then the two tones will be nearly in
 Octave equivalence can be shown by playing two notes that are an octave apart, first separately, then together. When played together, because the first tone contains all the same harmonics as the second tone, the tones played together sound essentially identical to the first tone. 
 
 [![Octave Eqivalence](https://cdn.discordapp.com/attachments/463193265416699915/1099093987547164712/image.png)](https://youtu.be/MnP1AUfhkKo)
+
 <sub> Image hyperlinked to spectogram video with audio. </sub>
 
 Like can be seen visually in the spectrogram above, the notes will only be easily distinguishable when played alone.
